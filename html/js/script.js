@@ -217,7 +217,7 @@ $(function(){
                         $('.car').css({color: 'rgb(190, 190, 190)'})
                     };
                 }else{
-                    $('.text-velocity').html('UP')
+                    $('.text-velocity').html('96corp')
                 };
             }else{
                 if (!firts){
