@@ -7,4 +7,5 @@ Controls:
 X - Seatbelt.
 1 - Limitator.
 
-![Sin título](https://user-images.githubusercontent.com/101216398/170699983-8a6638ed-4246-403e-81fc-9a3b987e976f.png)
+![imagen](https://user-images.githubusercontent.com/101216398/171153232-32b0f627-724a-404d-8cf7-483efbab7b9c.png)
+
